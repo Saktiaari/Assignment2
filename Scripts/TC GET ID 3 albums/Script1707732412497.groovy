@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Response = WS.sendRequest(findTestObject('Get ID 5'))
+Response = WS.sendRequest(findTestObject('Get ID 3 album'))
 
 WS.verifyResponseStatusCode(Response, 200)
 
-WS.verifyElementPropertyValue(Response, 'id', '5')
+WS.verifyElementPropertyValue(Response, 'id', '3')
 

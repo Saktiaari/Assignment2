@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get ID 5</name>
+   <name>Get ID 3 album</name>
    <tag></tag>
-   <elementGuidId>3d49ffb5-d4b8-4f9a-a62f-6a814685dcc8</elementGuidId>
+   <elementGuidId>a92fdab1-d77e-4bba-b7af-f1c035e0d997</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
@@ -16,7 +16,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://jsonplaceholder.typicode.com/posts/5</restUrl>
+   <restUrl>https://jsonplaceholder.typicode.com/albums/3</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
